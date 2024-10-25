@@ -1,6 +1,6 @@
 /* Estilos para el encabezado */
 header {
-    background-color: #4CAF50;
+    background-color:cornflowerblue;
     padding: 20px;
     text-align: center;
     color: white;
@@ -15,7 +15,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ffeb3b;
+    color:rgb(152, 188, 255);
 }
 
 /* Estilos para la sección principal */
